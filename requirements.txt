@@ -1,15 +1,10 @@
-# Core Streamlit app
 streamlit>=1.28,<1.36
 pandas>=2.2,<2.3
 numpy>=1.23,<1.27
 scikit-learn>=1.4,<1.5
 xgboost>=2.0,<2.1
-
-# LLM chatbot integration
 openai>=1.10,<2.0
 langchain>=0.1.16,<0.2.0
 langchain-core>=0.1.42,<0.2.0
 langchain-community>=0.3.23,<0.4.0
-
-# UI and utility
 python-dotenv>=1.0.0
