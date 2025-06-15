@@ -1,0 +1,32 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+.env
+
+# Ignore system files
+.DS_Store
+*.swp
+
+# Ignore logs
+*.log
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit secrets/config
+.streamlit/secrets.toml
+
+# Ignore model files and data dumps
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.xlsx
+
+# VSCode/IDE settings
+.vscode/
+.idea/

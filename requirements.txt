@@ -1,0 +1,16 @@
+# Streamlit App Core
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==2.0.3
+joblib==1.4.2
+
+# OpenAI & LangChain (clean versions)
+openai==1.17.0
+langchain==0.1.16
+python-dotenv==1.0.1
+
+# UI Extras
+streamlit-lottie==0.0.5
+tqdm==4.66.4
